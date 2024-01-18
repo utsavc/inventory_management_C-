@@ -1,0 +1,29 @@
+C:\Users\asus\documents\visual studio 2015\Projects\Inventory_App\Inventory_App\bin\Debug\Inventory_App.exe.config
+C:\Users\asus\documents\visual studio 2015\Projects\Inventory_App\Inventory_App\obj\Debug\Inventory_App.exe
+C:\Users\asus\documents\visual studio 2015\Projects\Inventory_App\Inventory_App\obj\Debug\Inventory_App.pdb
+C:\Users\asus\documents\visual studio 2015\Projects\Inventory_App\Inventory_App\bin\Debug\Inventory_App.exe
+C:\Users\asus\documents\visual studio 2015\Projects\Inventory_App\Inventory_App\bin\Debug\Inventory_App.pdb
+C:\Users\asus\documents\visual studio 2015\Projects\Inventory_App\Inventory_App\bin\Debug\MySql.Data.dll
+C:\Users\asus\documents\visual studio 2015\Projects\Inventory_App\Inventory_App\bin\Debug\MySql.Data.xml
+C:\Users\asus\documents\visual studio 2015\Projects\Inventory_App\Inventory_App\obj\Debug\Inventory_App (User View).csprojResolveAssemblyReference.cache
+C:\Users\asus\documents\visual studio 2015\Projects\Inventory_App\Inventory_App\obj\Debug\Inventory_App.CategoryList.resources
+C:\Users\asus\documents\visual studio 2015\Projects\Inventory_App\Inventory_App\obj\Debug\Inventory_App.ProductList.resources
+C:\Users\asus\documents\visual studio 2015\Projects\Inventory_App\Inventory_App\obj\Debug\Inventory_App.Properties.Resources.resources
+C:\Users\asus\documents\visual studio 2015\Projects\Inventory_App\Inventory_App\obj\Debug\Inventory_App.Report.resources
+C:\Users\asus\documents\visual studio 2015\Projects\Inventory_App\Inventory_App\obj\Debug\Inventory_App (User View).csproj.GenerateResource.Cache
+C:\Users\asus\documents\visual studio 2015\Projects\Inventory_App\Inventory_App\bin\Debug\MySqlConnector.dll
+C:\Users\asus\documents\visual studio 2015\Projects\Inventory_App\Inventory_App\bin\Debug\System.Buffers.dll
+C:\Users\asus\documents\visual studio 2015\Projects\Inventory_App\Inventory_App\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\asus\documents\visual studio 2015\Projects\Inventory_App\Inventory_App\bin\Debug\System.Memory.dll
+C:\Users\asus\documents\visual studio 2015\Projects\Inventory_App\Inventory_App\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\asus\documents\visual studio 2015\Projects\Inventory_App\Inventory_App\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\asus\documents\visual studio 2015\Projects\Inventory_App\Inventory_App\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\asus\documents\visual studio 2015\Projects\Inventory_App\Inventory_App\bin\Debug\MySqlConnector.xml
+C:\Users\asus\documents\visual studio 2015\Projects\Inventory_App\Inventory_App\bin\Debug\System.Buffers.xml
+C:\Users\asus\documents\visual studio 2015\Projects\Inventory_App\Inventory_App\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\asus\documents\visual studio 2015\Projects\Inventory_App\Inventory_App\bin\Debug\System.Memory.xml
+C:\Users\asus\documents\visual studio 2015\Projects\Inventory_App\Inventory_App\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\asus\documents\visual studio 2015\Projects\Inventory_App\Inventory_App\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\asus\documents\visual studio 2015\Projects\Inventory_App\Inventory_App\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\asus\documents\visual studio 2015\Projects\Inventory_App\Inventory_App\obj\Debug\Inventory_App.CategoryProductList.resources
+C:\Users\asus\documents\visual studio 2015\Projects\Inventory_App\Inventory_App\obj\Debug\Inventory_App.BuyProduct.resources

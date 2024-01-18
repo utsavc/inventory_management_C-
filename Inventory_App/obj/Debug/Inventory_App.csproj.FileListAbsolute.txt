@@ -1,0 +1,13 @@
+c:\users\asus\documents\visual studio 2015\Projects\Inventory_App\Inventory_App\bin\Debug\Inventory_App.exe.config
+c:\users\asus\documents\visual studio 2015\Projects\Inventory_App\Inventory_App\bin\Debug\Inventory_App.exe
+c:\users\asus\documents\visual studio 2015\Projects\Inventory_App\Inventory_App\bin\Debug\Inventory_App.pdb
+c:\users\asus\documents\visual studio 2015\Projects\Inventory_App\Inventory_App\obj\Debug\Inventory_App.csprojResolveAssemblyReference.cache
+c:\users\asus\documents\visual studio 2015\Projects\Inventory_App\Inventory_App\obj\Debug\Inventory_App.Properties.Resources.resources
+c:\users\asus\documents\visual studio 2015\Projects\Inventory_App\Inventory_App\obj\Debug\Inventory_App.csproj.GenerateResource.Cache
+c:\users\asus\documents\visual studio 2015\Projects\Inventory_App\Inventory_App\obj\Debug\Inventory_App.exe
+c:\users\asus\documents\visual studio 2015\Projects\Inventory_App\Inventory_App\obj\Debug\Inventory_App.pdb
+C:\Users\asus\documents\visual studio 2015\Projects\Inventory_App\Inventory_App\bin\Debug\MySql.Data.dll
+C:\Users\asus\documents\visual studio 2015\Projects\Inventory_App\Inventory_App\bin\Debug\MySql.Data.xml
+C:\Users\asus\documents\visual studio 2015\Projects\Inventory_App\Inventory_App\obj\Debug\Inventory_App.CategoryList.resources
+C:\Users\asus\documents\visual studio 2015\Projects\Inventory_App\Inventory_App\obj\Debug\Inventory_App.ProductList.resources
+C:\Users\asus\documents\visual studio 2015\Projects\Inventory_App\Inventory_App\obj\Debug\Inventory_App.Report.resources
